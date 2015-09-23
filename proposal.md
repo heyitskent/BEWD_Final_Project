@@ -1,1 +1,1 @@
-For my final project, I want to do something interesting. 
+For my final project, I want to do something interesting - ideally a Braintree integration.
